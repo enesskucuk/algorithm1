@@ -5,3 +5,5 @@ def stutter(word):
 
 a = input("Kelime giriniz: ")
 print(stutter(a))
+
+x = 10
