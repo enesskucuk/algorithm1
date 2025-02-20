@@ -7,3 +7,4 @@ a = input("Kelime giriniz: ")
 print(stutter(a))
 
 x = 10
+asdd = 5
