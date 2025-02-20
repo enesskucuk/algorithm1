@@ -6,5 +6,7 @@ def tri_area(base, height):
 	return area
 
 print(tri_area(a,b))
-	
-	 
+
+
+turgut = 20
+ASD = 1
